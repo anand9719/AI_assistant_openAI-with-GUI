@@ -15,7 +15,7 @@ import datetime
 import subprocess
 import pyautogui
 import requests
-openai.api_key = "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"
+openai.api_key = ""
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
